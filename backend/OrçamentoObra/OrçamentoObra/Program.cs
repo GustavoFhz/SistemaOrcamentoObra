@@ -23,6 +23,7 @@ builder.Services.AddScoped<IEmpresaInterface, EmpresaService>();
 builder.Services.AddScoped<IItemInterface, ItemService>();
 builder.Services.AddScoped<IObraInterface, ObraService>();
 builder.Services.AddScoped<IOrcamentoInterface, OrcamentoService>();
+builder.Services.AddScoped<IArquivoInterface, ArquivoService>();
 
 // Configurar Swagger / Swashbuckle
 builder.Services.AddEndpointsApiExplorer();

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrçamentoObra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23d14958103b58b6c426c21f6426a94b8acb5872")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrçamentoObra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrçamentoObra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
